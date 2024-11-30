@@ -2,7 +2,7 @@
 
 ![](AFP-MTRM.png)
 
-This repository contains our implementation of [Prediction of the Activity of PIMs Inhibitors with Graph Attention Mechanism](https://doi.org/10.1093/bioinformatics/btab080) (AFP-MTRM). 
+This repository contains our implementation of [Prediction of the Activity of PIMs Inhibitors with Graph Attention Mechanism](https://doi.org/10.1007/s11030-024-11060-y) (AFP-MTRM). 
 
 If you find this project useful, please cite our paper:
 
